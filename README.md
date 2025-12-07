@@ -36,7 +36,7 @@ Earthquake-Prediction-System/
 # Installation (Run Locally)
 1.)Clone the repository
 ```md
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
+git clone https://github.com/ShriyaRao16/Earthquake-Prediction.git
 cd YOUR-REPO
 ```
 2.) Create a virtual environment
