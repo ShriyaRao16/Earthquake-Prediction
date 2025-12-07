@@ -3,7 +3,7 @@ This project predicts earthquake Magnitude and Depth using a deep-learning model
 It also visualizes earthquake locations globally and sends automatic email alerts with prediction results.
 
 # Features
-🔄 Converts Date + Time into UNIX timestamps
+🔄 Converts Date + Time into UNIX timestamps<br>
  Cleans and preprocesses geophysical data
 🗺️ Plots earthquake locations using Basemap
 Deep-learning model for:
