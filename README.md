@@ -4,14 +4,15 @@ It also visualizes earthquake locations globally and sends automatic email alert
 
 # Features
 🔄 Converts Date + Time into UNIX timestamps<br>
- Cleans and preprocesses geophysical data
-🗺️ Plots earthquake locations using Basemap
-Deep-learning model for:
- •Magnitude prediction
- •Depth prediction
-🔍 Hyperparameter tuning with cross-validation
-📧 Auto email alerts with prediction results
-📉 Scaled outputs using StandardScaler
+ Cleans and preprocesses geophysical data<br>
+🗺️ Plots earthquake locations using Basemap<br>
+
+Deep-learning model for:<br>
+ •Magnitude prediction<br>
+ •Depth prediction<br>
+🔍 Hyperparameter tuning with cross-validation<br>
+📧 Auto email alerts with prediction results<br>
+📉 Scaled outputs using StandardScaler<br>
 
 # 📂 Project Structure
 ```md
@@ -25,12 +26,13 @@ Earthquake-Prediction-System/
 └── global_map.png
 ```
 # Technologies Used
-► Python 3
-► NumPy, Pandas
-► Matplotlib, Basemap
-► Scikit-learn
-► TensorFlow + Keras
-►SMTP for Email Alerts
+
+► Python 3<br>
+► NumPy, Pandas<br>
+► Matplotlib, Basemap<br>
+► Scikit-learn<br>
+► TensorFlow + Keras<br>
+►SMTP for Email Alerts<br>
 
 # Installation (Run Locally)
 1.)Clone the repository
@@ -61,11 +63,12 @@ Inside main.py
 sender_email = "sendersmail@gmail.com"
 sender_password = "abcd 1234"
 ```
-Use Gmail App Password:
-1.)Turn ON 2-Step Verification
-2.)Open App Passwords
-3.)Generate password
-4.)Replace it in the script
+Use Gmail App Password:<br>
+1.)Turn ON 2-Step Verification<br>
+2.)Open App Passwords<br>
+3.)Generate password<br>
+4.)Replace it in the script<br>
+
 # Model Architecture 
 ```scss
 Input (Timestamp, Latitude, Longitude)
@@ -74,9 +77,10 @@ Dense(16, relu)
 Dense(16, relu)
 Dense(2) → (Magnitude, Depth)
 ```
-► Loss: MSE
-► Optimizer: Adam
-► Metric: MAE
+► Loss: MSE<br>
+► Optimizer: Adam<br>
+► Metric: MAE<br>
+
 # requirements.txt
 ```nginx
 numpy
@@ -91,7 +95,7 @@ scikeras
 
 # 📝 End Notes
 
-Thank you for checking out this project!  
+Thank you for checking out this project! <br>
 Feel free to star ⭐ the repo or contribute!
 
 
