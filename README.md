@@ -37,7 +37,7 @@ Earthquake-Prediction-System/
 1.)Clone the repository
 ```md
 git clone https://github.com/ShriyaRao16/Earthquake-Prediction.git
-cd YOUR-REPO
+cd Earthquake-Prediction
 ```
 2.) Create a virtual environment
 ```md
