@@ -1,0 +1,4 @@
+- [ ] Modify create_model function to accept 'activation' parameter, apply it to hidden layers, remove activation from output layer, and change loss to 'mse'.
+- [ ] Update param_grid to include 'activation': activation.
+- [ ] In the final model definition and compilation, remove activation='softmax' from output layer and change loss to 'mse'.
+- [ ] Run the script to verify the error is fixed and the model trains correctly.
