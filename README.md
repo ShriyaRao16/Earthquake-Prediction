@@ -6,8 +6,7 @@ It also visualizes earthquake locations globally and sends automatic email alert
 🔄 Converts Date + Time into UNIX timestamps<br>
    Cleans and preprocesses geophysical data<br>
 🗺️ Plots earthquake locations using Basemap<br>
-
-Deep-learning model for:<br>
+   Deep-learning model for:<br>
  •Magnitude prediction<br>
  •Depth prediction<br>
 🔍 Hyperparameter tuning with cross-validation<br>
