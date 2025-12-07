@@ -1,10 +1,10 @@
-## Earthquake Prediction System Using Deep Learning & Email Alerts
-This project predicts earthquake Magnitude and Depth using a deep-learning model (Keras).
+# Earthquake Prediction System Using Deep Learning & Email Alerts
+This project predicts earthquake Magnitude and Depth using a deep-learning model (Keras).<br>
 It also visualizes earthquake locations globally and sends automatic email alerts with prediction results.
 
 # Features
 🔄 Converts Date + Time into UNIX timestamps<br>
- Cleans and preprocesses geophysical data<br>
+   Cleans and preprocesses geophysical data<br>
 🗺️ Plots earthquake locations using Basemap<br>
 
 Deep-learning model for:<br>
